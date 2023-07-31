@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+p {
+    background-color: green;
+    color: white;
+
+}
+button{
+    color: black;
+    background-color: #ffff00;
+    animation: forwards;
+}
