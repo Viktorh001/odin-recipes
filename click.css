@@ -1,0 +1,18 @@
+.num1 {
+    color: brown;
+font-family: helvetica, "Times, New Romans", sans-serif;
+font-size: 28px;
+}
+
+.num1 {
+    background-color: black;
+    color: white;
+}
+
+.num2 {
+    background-color: yellow;
+    font-family: Helvetica, "Times New Romans", sans-serif;
+    color: black;
+    font-size: 28px;
+    animation:cubic-bezier(0.25, 0.46, 0.45, 0.94)
+}
